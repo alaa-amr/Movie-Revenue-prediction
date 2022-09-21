@@ -1,5 +1,5 @@
 # Movie Revenue prediction
-#Data Preprocessing:
+# Data Preprocessing:
 -We grouped the voice actors into a list by the movie name.
 -Then we fill the directors and the voice actors with an API with a TMDb library because the nulls of the directors was 428 
 -and the nulls of the voice actors was 424.
